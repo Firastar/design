@@ -1,12 +1,15 @@
-# firastar-design &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Firastar/firastar-design/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](https://github.com/Firastar/firastar-design/compare)
+<div align="center">
+	<p align="center">
+		<img src="./banner/banner.png" />
+	</p>
+	<h1 align="center">Firastar</h1>
+	<p align="center">All about firastar designs.</p>
 
-<p align="center">
-    <img src="./banner/banner.png">
-  <br>
-  <p align="center">
-    All about firastar designs 
-  </p>
-</p>
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Firastar/firastar-design/blob/master/LICENSE) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](https://github.com/Firastar/firastar-design/compare)
+
+</div>
+<hr />
 
 ## Todo
 
